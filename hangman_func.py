@@ -1,3 +1,5 @@
+# This is an exercise from MITX 6.00.1x
+
 def hangman(secretWord):
     '''
     secretWord: string, the secret word to guess.
